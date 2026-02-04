@@ -14,7 +14,7 @@ Investigar padrões de desigualdade, concentração de renda e hierarquização 
 
 ## Base de Dados
 
-- Microsoft AdventureWorks
+- Microsoft AdventureWorks 2017 (https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver17&tabs=ssms)
 
 ## Tecnologias
 
