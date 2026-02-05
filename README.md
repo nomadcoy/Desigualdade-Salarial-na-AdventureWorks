@@ -8,9 +8,7 @@ Investigar padrões de desigualdade, concentração de renda e hierarquização 
 
 ## Abordagem Teórica
 
-- Sociologia do Trabalho
-- Estratificação Social
-- Marx, Weber e Bourdieu
+- Sociologia marxista
 
 ## Base de Dados
 
